@@ -17,9 +17,3 @@ Route::get('/', function () {
     return view('home.index');
 });
 
-Route::get('/about', function () {
-    return view('about.index');
-});
-Route::get('/shop', function () {
-    return view('shop.index');
-});

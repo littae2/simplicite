@@ -16,7 +16,7 @@
     <div class="nav">
       <a class="nav-link" href="{{url('/')}}">Home</a>
       <a class="nav-link" href="{{url('/about')}}">About</a>
-      <a class="nav-link" href="{{url('/shop')}}">Shop</a>
+      <a class="nav-link" href="{{url('/')}}">Shop</a>
 
 
   
