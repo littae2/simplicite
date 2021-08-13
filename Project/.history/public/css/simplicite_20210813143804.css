@@ -1,0 +1,13 @@
+.headerImg {
+    width: -moz-available;
+    position: absolute;
+    clip: rect(0, 100px, 200px, 0);
+    background-position-y: 80%;
+    display: flex;
+    height: 30%;
+  background-size: cover; /* or contain depending on what you want */
+  background-repeat: no-repeat;
+  text-align:center;
+  margin:auto;
+  padding:0;
+}

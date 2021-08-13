@@ -1,0 +1,17 @@
+
+@keyframes example {
+    from {}
+    to {background-color: yellow;}
+  }
+  
+.headerImg {
+    width: -moz-available;
+    background-position-y: 80%;
+    display: flex;
+
+    background-size: cover; /* or contain depending on what you want */
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: auto;
+    padding: 0;
+}

@@ -10,7 +10,7 @@
 @endif -->
 
   <div class="card d-flex flex-row justify-content-between align-items-center w-90 home">
-    <img src="{{url('img/teaching.jpg')}}" alt="classroom" id="classImg">
+  <img src="{{url('img/product2.jpg')}}" alt="skincare applicators" class="headerImg">
     <div class="card-body w-25 ">
 
       <br>

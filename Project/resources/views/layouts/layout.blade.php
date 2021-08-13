@@ -13,10 +13,10 @@
     <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
         
     <!--  BS -->
-    <link rel="stylesheet" href="{{asset('css/styles.css')}}">
-    <link rel="stylesheet" href="{{asset('bootstrap-5.0.1-dist/css/bootstrap.min.css')}}">
-    <link rel="stylesheet" href="{{asset('bootstrap-5.0.1-dist/js/bootstrap.min.js')}}">
+    <link rel="stylesheet" href="{{asset('css/simplicite.css')}}">
+    <link rel="stylesheet" href="{{asset('css/app.css')}}">
     
+    <!--JS -->
     
 
     
@@ -30,6 +30,7 @@
 <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 
 @yield('content')
+
 </body>
 </html>
 

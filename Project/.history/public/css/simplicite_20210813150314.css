@@ -1,0 +1,18 @@
+
+@keyframes example {
+    from {opacity: 100%;}
+    to {opacity:0%;}
+  }
+  
+.headerImg {
+    width: -moz-available;
+    background-position-y: 80%;
+    display: flex;
+
+    background-size: cover; /* or contain depending on what you want */
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: auto;
+    padding: 0;
+}
+.headerImg:onsc

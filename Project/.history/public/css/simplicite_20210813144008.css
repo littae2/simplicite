@@ -1,0 +1,13 @@
+.headerImg {
+    width: -moz-available;
+
+  clip-path: inset(30px 10px 30px 10px);
+    background-position-y: 80%;
+    display: flex;
+    height: 30%;
+  background-size: cover; /* or contain depending on what you want */
+  background-repeat: no-repeat;
+  text-align:center;
+  margin:auto;
+  padding:0;
+}

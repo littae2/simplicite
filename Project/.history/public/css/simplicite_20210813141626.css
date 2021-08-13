@@ -1,0 +1,7 @@
+.header-img {
+    background-image: url("img/stars.jpg");
+    background-size: 100%;
+    background-position-y: 80%;
+    display: flex;
+    height: 30%;
+}

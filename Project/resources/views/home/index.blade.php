@@ -2,7 +2,7 @@
 @section('title', 'Welcome')
 @section('content')
 <div class="pageContent">
-
+<img src="{{url('img/product2.jpg')}}" alt="skincare applicators" class="headerImg">
 <!-- @if(Auth::check())
 <div> you are logged in </div>
 @else
@@ -10,7 +10,7 @@
 @endif -->
 
   <div class="card d-flex flex-row justify-content-between align-items-center w-90 home">
-    <img src="{{url('img/teaching.jpg')}}" alt="classroom" id="classImg">
+
     <div class="card-body w-25 ">
 
       <br>
@@ -34,4 +34,5 @@
 
   </div>
 </div>
+
 @endsection
